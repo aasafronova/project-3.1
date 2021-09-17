@@ -1,0 +1,6 @@
+# Ignore:
+.vscode/
+*.sw*
+/forignore.txt
+.idea
+*.sln
